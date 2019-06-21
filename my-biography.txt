@@ -5,3 +5,5 @@ Let's do more.
 I want to learn how to program and code.
 
 Adding more text. Hallo! 
+
+Lorie is learning Git and Github with Rhonni at ALA 2019.
